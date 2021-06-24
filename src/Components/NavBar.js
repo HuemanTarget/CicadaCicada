@@ -3,8 +3,11 @@ import './NavBar.css';
 
 function NavBar() {
     return (
-        <div className="nav">
-            <h1>NavBar</h1>
+        <div className="container">
+            <a href="#story">Story</a>
+            <a href="#story">Actors</a>
+            <a href="#story">Sea Captain</a>
+            <a href="#story">Tickets</a>
         </div>
     )
 }
