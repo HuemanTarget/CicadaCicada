@@ -5,9 +5,9 @@ function NavBar() {
     return (
         <div className="container">
             <a href="#story">Story</a>
-            <a href="#story">Actors</a>
-            <a href="#story">Sea Captain</a>
-            <a href="#story">Tickets</a>
+            <a href="#actors">Actors</a>
+            <a href="#captain">Sea Captain</a>
+            <a href="#">Tickets</a>
         </div>
     )
 }
