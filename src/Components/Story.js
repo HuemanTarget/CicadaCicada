@@ -1,8 +1,9 @@
 import React from 'react';
+import './Story.css';
 
 function Story() {
     return (
-        <div>
+        <div className="story">
             <h1>Story</h1>
         </div>
     )
