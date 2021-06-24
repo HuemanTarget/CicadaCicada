@@ -7,7 +7,7 @@ function NavBar() {
             <a href="#story">Story</a>
             <a href="#actors">Actors</a>
             <a href="#captain">Sea Captain</a>
-            <a href="#">Tickets</a>
+            <a href="#ticket">Tickets</a>
         </div>
     )
 }

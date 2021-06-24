@@ -4,6 +4,7 @@ import Story from './Components/Story';
 import Actors from './Components/Actors';
 import Footer from './Components/Footer';
 import SeaCaptain from './Components/SeaCaptain';
+import Ticket from './Components/Ticket';
 
 import './App.css';
 
@@ -15,6 +16,7 @@ function App() {
       <Story />
       <Actors />
       <SeaCaptain />
+      <Ticket />
       <Footer />
     </div>
   );
